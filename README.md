@@ -1,4 +1,5 @@
-# Dailymotion-Assistant (Dailymotion API &amp; Google API usage. Download operations with "youtube-dl")
+# Dailymotion-Assistant 
+# (Dailymotion API &amp; Google API usage. Download operations with "youtube-dl")
 
 The project includes operations via APIs and a series of operations such as video download, customization and post.
  

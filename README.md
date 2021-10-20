@@ -7,4 +7,4 @@ The project includes operations via APIs and a series of operations such as vide
 
 ![ProjectScreens](https://user-images.githubusercontent.com/35347777/138078317-186028b7-750e-4fd1-8e1f-c741bac08f01.gif)
 
-###### ![calendar](https://user-images.githubusercontent.com/35347777/138082837-fa83ef0c-4f68-4c2a-b7b2-c0bfd734e8f9.png) Project date is January 2016.
+###### ![calendar](https://user-images.githubusercontent.com/35347777/138082926-eadb501c-ac74-4ac5-9b35-85dbba46fa9a.png) Project date is January 2016.

@@ -1,0 +1,808 @@
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.dll
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Core.dll
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.dll
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.PlatformServices.dll
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.dll
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.dll
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.pdb
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.xml
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.pdb
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.xml
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Core.pdb
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Core.xml
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.pdb
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.xml
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+c:\users\monster\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Core.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Core.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.Core.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netstandard.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.AppContext.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Collections.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ComponentModel.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Console.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.Common.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Globalization.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.Compression.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.Pipes.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Linq.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Http.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Ping.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Requests.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Security.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Sockets.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ObjectModel.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Reflection.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Resources.Reader.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Resources.Writer.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Claims.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Principal.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.SecureString.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encoding.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Thread.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Timer.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Xml.XPath.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MicroServiceFabric.Bootstrap.StatefulServices.Data.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MicroServiceFabric.CodeContracts.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MicroServiceFabric.Dispatcher.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ServiceFabricServiceModel.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Fabric.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Fabric.Strings.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Fabric.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\en-us\System.Fabric.Strings.resources.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.App.config
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\netstandard.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.AppContext.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Collections.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.ComponentModel.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Console.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Data.Common.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Globalization.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.IO.Compression.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.IO.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.IO.Pipes.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Linq.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.Http.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.Ping.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.Requests.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.Security.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.Sockets.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.ObjectModel.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Reflection.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Resources.Reader.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Resources.Writer.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Runtime.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Security.Claims.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Security.Principal.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Security.SecureString.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Text.Encoding.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Threading.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Threading.Thread.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Threading.Timer.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Xml.XPath.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.Core.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\MicroServiceFabric.Bootstrap.StatefulServices.Data.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\MicroServiceFabric.CodeContracts.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\MicroServiceFabric.Dispatcher.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\ServiceFabricServiceModel.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Fabric.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Fabric.Strings.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\WebDriver.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.Core.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.Core.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Fabric.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\WebDriver.xml
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\bin\Debug\en-us\System.Fabric.Strings.resources.dll
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.App.config
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MONSTER\Desktop\WindowsFormsApp2 - Kopya\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.App.config
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\netstandard.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.AppContext.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Collections.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.ComponentModel.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Console.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Data.Common.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Globalization.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.Compression.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.Pipes.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Linq.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Ping.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Primitives.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Requests.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Security.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Sockets.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.ObjectModel.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Reflection.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Resources.Reader.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Resources.Writer.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Claims.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Principal.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.SecureString.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Text.Encoding.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Thread.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Timer.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XPath.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Core.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\MicroServiceFabric.Bootstrap.StatefulServices.Data.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\MicroServiceFabric.CodeContracts.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\MicroServiceFabric.Dispatcher.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\ServiceFabricServiceModel.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Fabric.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Fabric.Strings.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\WebDriver.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.pdb
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Core.pdb
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Core.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Fabric.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\WebDriver.xml
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\en-us\System.Fabric.Strings.resources.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Tesseract.dll
+C:\Users\MONSTER\Desktop\Dailymotion\WindowsFormsApp2\bin\Debug\Tesseract.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\netstandard.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.AppContext.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Collections.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.ComponentModel.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Console.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Data.Common.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Globalization.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.Compression.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.Pipes.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Linq.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Ping.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Primitives.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Requests.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Security.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Sockets.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.ObjectModel.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Reflection.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Resources.Reader.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Resources.Writer.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Claims.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Principal.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.SecureString.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Text.Encoding.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Thread.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Timer.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XPath.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Core.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\MicroServiceFabric.Bootstrap.StatefulServices.Data.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\MicroServiceFabric.CodeContracts.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\MicroServiceFabric.Dispatcher.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\ServiceFabricServiceModel.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Fabric.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Fabric.Strings.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Tesseract.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\WebDriver.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.pdb
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Core.pdb
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Core.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Fabric.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Tesseract.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\WebDriver.xml
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\en-us\System.Fabric.Strings.resources.dll
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.App.config
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ONUR\Desktop\Yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\netstandard.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.AppContext.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Collections.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.ComponentModel.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Console.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Data.Common.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Globalization.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.Compression.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.Pipes.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Linq.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Ping.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Primitives.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Requests.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Security.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Sockets.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.ObjectModel.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Reflection.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Resources.Reader.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Resources.Writer.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Claims.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.Principal.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Security.SecureString.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Text.Encoding.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Thread.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Timer.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XPath.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Core.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\MicroServiceFabric.Bootstrap.StatefulServices.Data.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\MicroServiceFabric.CodeContracts.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\MicroServiceFabric.Dispatcher.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\ServiceFabricServiceModel.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Fabric.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Fabric.Strings.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Tesseract.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\WebDriver.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.pdb
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Auth.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Core.pdb
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.Core.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Fabric.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\Tesseract.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\WebDriver.xml
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\bin\Debug\en-us\System.Fabric.Strings.resources.dll
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.App.config
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MONSTER\Desktop\Yazılımlar\Diğer yazılımlar\Dailymotion\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
